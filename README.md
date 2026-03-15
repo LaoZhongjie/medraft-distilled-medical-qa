@@ -1,4 +1,4 @@
-# 🧬 MedicalRAFT: Lightweight Medical QA System
+# 🧬 MedRAFT: Retrieval-Augmented Fine-Tuning with Knowledge Distillation for Chinese Medical Question Answering
 
 A Chinese medical question-answering system built with Retrieval-Augmented Generation (RAG) and Retrieval-Augmented Fine-Tuning (RAFT), designed to transfer reasoning capabilities from large teacher models to lightweight student models for practical deployment.
 
